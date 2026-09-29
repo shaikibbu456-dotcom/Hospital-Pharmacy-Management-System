@@ -1,0 +1,81 @@
+
+========================================================
+      REVA CARE HOSPITAL PHARMACY MANAGEMENT SYSTEM
+========================================================
+Patient receiving pharmacy services
+Licensed pharmacist managing medicine dispensing
+
+---------------- MENU ----------------
+1. View Medicines
+2. View Patients
+3. Register Patient
+4. Add Medicine
+5. Dispense Medicine
+6. Generate Bill
+7. OOP Feature Demonstration
+8. Exit
+Enter your choice: ID    Medicine           Type          Price Stock
+-------------------------------------------------------
+101   Paracetamol        TABLET         2.50    40
+102   Amoxicillin        CAPSULE        8.00    12
+103   Cough Syrup        SYRUP         65.00     4
+104   Insulin            INJECTION    120.00    10
+
+---------------- MENU ----------------
+1. View Medicines
+2. View Patients
+3. Register Patient
+4. Add Medicine
+5. Dispense Medicine
+6. Generate Bill
+7. OOP Feature Demonstration
+8. Exit
+Enter your choice: Patient ID: Medicine name/ID: Quantity: Medicine dispensed to Rahul. Remaining stock: 38
+
+---------------- MENU ----------------
+1. View Medicines
+2. View Patients
+3. Register Patient
+4. Add Medicine
+5. Dispense Medicine
+6. Generate Bill
+7. OOP Feature Demonstration
+8. Exit
+Enter your choice: Patient ID: Medicine name/ID: Quantity: Patient: Rahul
+Medicine: Paracetamol
+Quantity: 3
+Total Bill: Rs. 7.88
+Rounded bill (type casting): Rs. 7
+
+---------------- MENU ----------------
+1. View Medicines
+2. View Patients
+3. Register Patient
+4. Add Medicine
+5. Dispense Medicine
+6. Generate Bill
+7. OOP Feature Demonstration
+8. Exit
+Enter your choice: 
+--- OOP Demonstration ---
+Contact: Ibrahim | Phone: 9999999999
+Employee ID: EMP-500 | Qualification: B.Pharm
+Dynamic binding: Licensed pharmacist managing medicine dispensing
+Rahul - Diagnosis: Fever and body pain (4 word(s))
+Interface reference bill: Rs. 7.50
+Total Medicine objects created: 4
+Total Patient objects created: 3
+Low-stock medicines: 1
+Operator precedence example: 10 + 5 * 2 = 20
+String contains 'pain': true
+
+---------------- MENU ----------------
+1. View Medicines
+2. View Patients
+3. Register Patient
+4. Add Medicine
+5. Dispense Medicine
+6. Generate Bill
+7. OOP Feature Demonstration
+8. Exit
+Enter your choice: Thank you for using REVA Care Hospital Pharmacy.
