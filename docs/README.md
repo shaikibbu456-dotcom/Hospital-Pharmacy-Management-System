@@ -1,7 +1,7 @@
 # Java OOP Practical Mini Project
 
 **Student:** Shaik Ibrahim  
-**SRN:** R25SA038  
+**SRN:** R24SA038  
 **Program:** B.Sc. (BSTCs), Semester V  
 **Subject:** Java Programming  
 **Project:** Hospital Pharmacy Management System
