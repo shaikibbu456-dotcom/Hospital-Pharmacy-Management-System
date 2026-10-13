@@ -166,3 +166,26 @@ Menu](screenshots/Screenshot%202026-10-13%20135644.png)
 
 ![Medicine Inventory
 Display](screenshots/Screenshot%202026-10-13%20135703.png)
+### Patient Registration
+
+![Patient Registration](screenshots/Screenshot%202026-10-13%20143401.png)
+
+### Medicine Dispensing
+
+![Medicine Dispensing](screenshots/Screenshot%202026-10-13%20143438.png)
+
+### Medicine Billing
+
+![Medicine Billing](screenshots/Screenshot%202026-10-13%20143615.png)
+
+### OOP Feature Demonstration
+
+![OOP Feature Demonstration](screenshots/Screenshot%202026-10-13%20143640.png)
+
+### Pharmacy System Output
+
+![Pharmacy System Output](screenshots/Screenshot%202026-10-13%20143704.png)
+
+### Additional Project Screenshot
+
+![Additional Project Screenshot](screenshots/Screenshot%202026-10-13%20143721.png)
